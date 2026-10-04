@@ -4,3 +4,6 @@
 *.db
 *.db-wal
 *.db-shm
+
+# 分析作業フォルダ
+/work
